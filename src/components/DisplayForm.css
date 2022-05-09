@@ -1,0 +1,27 @@
+.displayFormHeading {
+  padding: 5px;
+  margin-bottom: 40px;
+  font-size: 2vw;
+  width: 40%;
+  border-radius: 10px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-weight: 500;
+  text-align: center;
+  background-color: #9b59b6;
+  font-family: "Roboto", sans-serif;
+}
+.displayForm {
+  margin-top: 10%;
+  margin-left: 28%;
+  font-size: 25px;
+  color: #9b59b6;
+  font-family: "Roboto", sans-serif;
+}
+.displayContent {
+  margin-top: 20px;
+  padding: 20px;
+  width: max-content;
+  height: max-content;
+  background-color: #f5f6fa;
+}

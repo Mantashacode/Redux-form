@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&family=Roboto&display=swap");
+
+.main-container {
+  /* position: absolute; */
+  width: 40%;
+  height: auto;
+  margin-left: 25%;
+  margin-top: 18px;
+  margin-bottom: 8px;
+  background-color: #f5f6fa;
+  padding: 15px;
+  font-size: 19px;
+  font-weight: 500;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  border-radius: 10px;
+}
+.main-container .btn {
+  background-color: #9b59b6;
+  width: 100%;
+  font-weight: 500;
+  font-size: 18px;
+  color: white;
+}
+.main-container h4 {
+  text-align: center;
+  padding-bottom: 10px;
+  background-color: #fddcdc;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  border-radius: 10px;
+  font-family: "Poppins", sans-serif;
+}
+.main-container .form-control {
+  box-shadow: 1px 5px 43px -15px rgba(43, 39, 40, 1);
+  -webkit-box-shadow: 1px 5px 43px -17px rgba(43, 39, 40, 1);
+  -moz-box-shadow: 1px 5px 43px -25px rgba(43, 39, 40, 1);
+}
